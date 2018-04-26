@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "学生素材.Plugins", "学生素材.Plugins.csproj", "{4AD3485D-B83C-6550-E304-A4F04854E2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "学生素材", "学生素材.csproj", "{C046290D-1085-CBFF-9E1F-C8B42E6B51A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "学生素材.Editor", "学生素材.Editor.csproj", "{95A009DE-0120-6E54-7D30-B9C537256563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD3485D-B83C-6550-E304-A4F04854E2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD3485D-B83C-6550-E304-A4F04854E2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD3485D-B83C-6550-E304-A4F04854E2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD3485D-B83C-6550-E304-A4F04854E2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C046290D-1085-CBFF-9E1F-C8B42E6B51A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C046290D-1085-CBFF-9E1F-C8B42E6B51A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C046290D-1085-CBFF-9E1F-C8B42E6B51A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C046290D-1085-CBFF-9E1F-C8B42E6B51A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A009DE-0120-6E54-7D30-B9C537256563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A009DE-0120-6E54-7D30-B9C537256563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A009DE-0120-6E54-7D30-B9C537256563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A009DE-0120-6E54-7D30-B9C537256563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
